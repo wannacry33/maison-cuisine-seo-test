@@ -1,6 +1,6 @@
 {
-  "public_package_id": "e3dc31b9-4498-4d40-b13c-c2d901ccf5d6",
-  "created_at": "2026-08-08T18:39:57.715745+00:00",
+  "public_package_id": "61361328-881f-46c2-a654-3bcd485ae64e",
+  "created_at": "2026-08-08T18:46:46.470291+00:00",
   "site_slug": "maison-cuisine",
   "public_base_url": "https://wannacry33.github.io/maison-cuisine-seo-test",
   "custom_domain": null,
@@ -12,7 +12,14 @@
     "files_changed": 68,
     "url_replacements": 201,
     "duplicate_prefixes_normalized": 0,
-    "project_root_paths_rewritten": 173
+    "universal_url_resolver": {
+      "files_scanned": 73,
+      "files_changed": 67,
+      "html_attribute_urls": 240,
+      "srcset_urls": 0,
+      "css_urls": 0,
+      "root_home_links": 67
+    }
   },
   "sitemap": {
     "urls": 66,
@@ -25,6 +32,6 @@
     "critical_issues": 0,
     "issues": [],
     "html_files": 67,
-    "package_hash": "693d4e5df02a967d420fdc7a08cbedbe9733c6b3bc3825212631aacc2f7c8029"
+    "package_hash": "19267faf6ec9fb2b92e795502bd393b6d615999760b9fb4d61020ea4fb22d82e"
   }
 }
