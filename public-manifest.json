@@ -1,6 +1,6 @@
 {
-  "public_package_id": "61361328-881f-46c2-a654-3bcd485ae64e",
-  "created_at": "2026-08-08T18:46:46.470291+00:00",
+  "public_package_id": "41e97d4f-51ad-4995-b8ab-720ad9570a3a",
+  "created_at": "2026-08-08T20:44:33.438996+00:00",
   "site_slug": "maison-cuisine",
   "public_base_url": "https://wannacry33.github.io/maison-cuisine-seo-test",
   "custom_domain": null,
@@ -32,6 +32,6 @@
     "critical_issues": 0,
     "issues": [],
     "html_files": 67,
-    "package_hash": "19267faf6ec9fb2b92e795502bd393b6d615999760b9fb4d61020ea4fb22d82e"
+    "package_hash": "0c4c82f45e27549399376088977806aa8f3c2cef8a2b05669802d89c0be8c957"
   }
 }
