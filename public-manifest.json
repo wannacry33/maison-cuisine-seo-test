@@ -1,6 +1,6 @@
 {
-  "public_package_id": "356423b0-ff79-4b5e-a225-6f9ef6e6c5d9",
-  "created_at": "2026-08-08T17:43:48.195762+00:00",
+  "public_package_id": "75ac8206-3541-4002-ab3a-b7731d6c7326",
+  "created_at": "2026-08-08T17:57:39.195826+00:00",
   "site_slug": "maison-cuisine",
   "public_base_url": "https://wannacry33.github.io/maison-cuisine-seo-test",
   "custom_domain": null,
@@ -9,18 +9,21 @@
   "site_dir": "C:\\Users\\xen33\\SEO-LAB\\public_sites\\maison-cuisine\\site",
   "workflow": ".github/workflows/pages.yml",
   "replacement_stats": {
-    "files_changed": 70,
-    "url_replacements": 268
+    "files_changed": 68,
+    "url_replacements": 201,
+    "duplicate_prefixes_normalized": 0
   },
   "sitemap": {
     "urls": 66,
-    "base_url": "https://wannacry33.github.io/maison-cuisine-seo-test"
+    "base_url": "https://wannacry33.github.io/maison-cuisine-seo-test",
+    "historical_prefixes_normalized": 0,
+    "duplicate_prefix_hits": 0
   },
   "integrity": {
     "passed": true,
     "critical_issues": 0,
     "issues": [],
     "html_files": 67,
-    "package_hash": "e02396b7271d5f2e91dcaa1c021368fde96676516f15d0fa8a0e4c0ce5098e62"
+    "package_hash": "144c4a779e5aa9275e1efa84e70c5a124d9510d1773d4089474b60f4afc339f7"
   }
 }
