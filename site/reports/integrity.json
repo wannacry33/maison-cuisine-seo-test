@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "critical_issues": 0,
+  "issues": [],
+  "pages_expected": 66,
+  "pages_built": 66,
+  "coverage_percent": 100.0
+}

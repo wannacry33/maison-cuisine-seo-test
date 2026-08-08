@@ -1,0 +1,495 @@
+{
+  "build_id": "12405a26-7493-4e1f-82c5-08ec8a32d627",
+  "created_at": "2026-08-08T17:16:03.710708+00:00",
+  "site": {
+    "id": "165d7899-01af-4081-8d77-f6f403303b71",
+    "name": "Maison Cuisine",
+    "topic": "cuisine",
+    "language": "fr",
+    "country": "FR",
+    "status": "gold-reference",
+    "created_at": "2026-08-08T17:07:45.500253+00:00",
+    "updated_at": "2026-08-08T17:07:45.500261+00:00",
+    "page_count": 66,
+    "design_policy": "USER_CONTROLLED",
+    "vertical_pack": "cuisine-premium"
+  },
+  "theme": {
+    "slug": "__v123_build_smoke__",
+    "name": "V12.3 Build Smoke Theme",
+    "version": "1.0.0"
+  },
+  "base_url": "https://wannacry33.github.io/maison-cuisine-seo-test",
+  "pages_expected": 66,
+  "pages_built": 66,
+  "failures": [],
+  "files": {
+    "sitemap": "sitemap.xml",
+    "robots": "robots.txt",
+    "404": "404.html"
+  },
+  "pages": [
+    {
+      "slug": "/",
+      "title": "Cuisine : guides, techniques et conseils",
+      "template": "home",
+      "output": "index.html",
+      "sha256": "a1939361b7134d47de4ebf511cc4d33bcc3d3524a755a8bce8943ecfab51d567"
+    },
+    {
+      "slug": "/guides",
+      "title": "Guides essentiels sur la cuisine",
+      "template": "article",
+      "output": "guides\\index.html",
+      "sha256": "7be7be67d432dd7a724cf8ef4f9342e71179a493a29260d1158c0cb970573add"
+    },
+    {
+      "slug": "/debuter",
+      "title": "Cuisine pour débutants : bien commencer",
+      "template": "article",
+      "output": "debuter\\index.html",
+      "sha256": "7ad3c127e6457746306daf2baec6a78723b2bdcd6983b5e3e111b9218f0e009c"
+    },
+    {
+      "slug": "/techniques",
+      "title": "Techniques de cuisine à maîtriser",
+      "template": "article",
+      "output": "techniques\\index.html",
+      "sha256": "ffca0cc2955f9de4f6c8123579718fa1e5bc1c3ae53553e6a3ee31a39f9e73a5"
+    },
+    {
+      "slug": "/materiel",
+      "title": "Matériel et équipements pour cuisine",
+      "template": "article",
+      "output": "materiel\\index.html",
+      "sha256": "b85abf3cf423f1bd07357fb439635eaea62fcc1aa1a14e889061b8e55033d622"
+    },
+    {
+      "slug": "/ingredients",
+      "title": "Ingrédients essentiels en cuisine",
+      "template": "article",
+      "output": "ingredients\\index.html",
+      "sha256": "3fcfb01d615ec38ab82a24b95a4c35c2477d67ed92b3986fb728cec5aa35aa7d"
+    },
+    {
+      "slug": "/recettes",
+      "title": "Recettes et inspirations de cuisine",
+      "template": "article",
+      "output": "recettes\\index.html",
+      "sha256": "e3bcda87fea3dfd4eb065ed138c5d3b1a24544eefea4d8d156c5f5f5b62f0a42"
+    },
+    {
+      "slug": "/styles",
+      "title": "Types et styles de cuisine",
+      "template": "article",
+      "output": "styles\\index.html",
+      "sha256": "a14754d95a4cfad2148bee21dfdf0adea2ff922d37646d3e1d2dc83dd8223cd1"
+    },
+    {
+      "slug": "/conseils",
+      "title": "Conseils pratiques de cuisine",
+      "template": "article",
+      "output": "conseils\\index.html",
+      "sha256": "80ee6862a897e23f9b83812308b77ce2eecf1fa7e33e2b26786afd4716903f0e"
+    },
+    {
+      "slug": "/comparatifs",
+      "title": "Comparatifs pour mieux choisir en cuisine",
+      "template": "article",
+      "output": "comparatifs\\index.html",
+      "sha256": "64c6aa45ed24e7a1f2e69ecd3a7a187a2f8c49cf256d05e9b77c1d810ce6874d"
+    },
+    {
+      "slug": "/faq",
+      "title": "FAQ sur la cuisine",
+      "template": "article",
+      "output": "faq\\index.html",
+      "sha256": "e38507b4181116e9330ddd1b6dd31bccfbc1483c5808135954936d35d2757604"
+    },
+    {
+      "slug": "/glossaire",
+      "title": "Glossaire de la cuisine",
+      "template": "article",
+      "output": "glossaire\\index.html",
+      "sha256": "d20343f823121d9df14ef890f650160737b0f1d0d74e88d8fda07c8d0f1098a5"
+    },
+    {
+      "slug": "/a-propos",
+      "title": "À propos",
+      "template": "article",
+      "output": "a-propos\\index.html",
+      "sha256": "e0886e3d482082e307052f8e376185923a80874141d92300349564ddf1077877"
+    },
+    {
+      "slug": "/contact",
+      "title": "Contact",
+      "template": "article",
+      "output": "contact\\index.html",
+      "sha256": "6a9f512d45dca493009942a79603289ffe6a04ade07326e616a922b5b589082c"
+    },
+    {
+      "slug": "/politique-editoriale",
+      "title": "Politique éditoriale",
+      "template": "article",
+      "output": "politique-editoriale\\index.html",
+      "sha256": "3c394850e3da2d19866e4ae6d00bbcd23dbc5c59eb14770d6bf842472edaa7e3"
+    },
+    {
+      "slug": "/mentions-legales",
+      "title": "Mentions légales",
+      "template": "article",
+      "output": "mentions-legales\\index.html",
+      "sha256": "13a1d7ed625f895fb1b12d81ed64128132956cac062ed4fb70bd56cc5ef44166"
+    },
+    {
+      "slug": "/confidentialite",
+      "title": "Politique de confidentialité",
+      "template": "article",
+      "output": "confidentialite\\index.html",
+      "sha256": "c29b935fffde489ae417024c48c77c4e5a2ccdda8da12b71ee645a7dc6cba88c"
+    },
+    {
+      "slug": "/guides/organisation",
+      "title": "Comment organiser sa cuisine efficacement",
+      "template": "article",
+      "output": "guides\\organisation\\index.html",
+      "sha256": "6c2b2f7f1b524528b15becc99cc5c20ba57711bb0ca77446f0c1e2a4556ce528"
+    },
+    {
+      "slug": "/guides/planification",
+      "title": "Planifier ses repas et sa cuisine",
+      "template": "article",
+      "output": "guides\\planification\\index.html",
+      "sha256": "3165ba787daf27b931173c7975c6e30dd124268e05dded70968890e8f7f28454"
+    },
+    {
+      "slug": "/guides/budget",
+      "title": "Cuisine avec un budget maîtrisé",
+      "template": "article",
+      "output": "guides\\budget\\index.html",
+      "sha256": "03b93d60b3999b7120cc6cb635ecb334cae90e23346a001ec21bd7b2a13f90b3"
+    },
+    {
+      "slug": "/guides/gagner-du-temps",
+      "title": "Gagner du temps en cuisine",
+      "template": "article",
+      "output": "guides\\gagner-du-temps\\index.html",
+      "sha256": "83783c53cd0770afed4c331833f64680becb97f4b9242d90e774cf7677d6e2c3"
+    },
+    {
+      "slug": "/techniques/cuisson",
+      "title": "Maîtriser les modes de cuisson",
+      "template": "article",
+      "output": "techniques\\cuisson\\index.html",
+      "sha256": "7a946eec5b26dea4a4079197798a707ea451fb375bf7c5ced7bb1e1559f19519"
+    },
+    {
+      "slug": "/techniques/decoupe",
+      "title": "Techniques de découpe essentielles",
+      "template": "article",
+      "output": "techniques\\decoupe\\index.html",
+      "sha256": "6bf5f5247788264d3802cd42876acfd35a3ce31fefa80eca0d596be770e1680a"
+    },
+    {
+      "slug": "/techniques/assaisonnement",
+      "title": "Bien assaisonner ses préparations",
+      "template": "article",
+      "output": "techniques\\assaisonnement\\index.html",
+      "sha256": "5d4883f2d2c9bd09e0eb12c2e1796fbe8f36ac288d6a6d52354133c20331d961"
+    },
+    {
+      "slug": "/techniques/conservation",
+      "title": "Conserver correctement les aliments",
+      "template": "article",
+      "output": "techniques\\conservation\\index.html",
+      "sha256": "0de822c28886e2d7e1ed059da2e64d490f7f6650a76eee484ac3ee3829ce9868"
+    },
+    {
+      "slug": "/materiel/couteaux",
+      "title": "Choisir ses couteaux de cuisine",
+      "template": "article",
+      "output": "materiel\\couteaux\\index.html",
+      "sha256": "901b855a985b3e97f7868218aed9d8585eb71ced750b715074fe72b35b0c09fa"
+    },
+    {
+      "slug": "/materiel/casseroles",
+      "title": "Bien choisir casseroles et poêles",
+      "template": "article",
+      "output": "materiel\\casseroles\\index.html",
+      "sha256": "15c524cc762d19748f784917e5698a4055f64f5469e209518ca6c7b13bc2ecf6"
+    },
+    {
+      "slug": "/materiel/robot",
+      "title": "Robot de cuisine : guide de choix",
+      "template": "article",
+      "output": "materiel\\robot\\index.html",
+      "sha256": "a4e19c0b374f92300fc885ed8df5fda6789e05852be61ce2cb646f7460db3759"
+    },
+    {
+      "slug": "/materiel/indispensables",
+      "title": "Les ustensiles indispensables",
+      "template": "article",
+      "output": "materiel\\indispensables\\index.html",
+      "sha256": "448d8d123c0bad815895578eae9a443863f15472fbfe67db4752c6c71eef05a2"
+    },
+    {
+      "slug": "/ingredients/epices",
+      "title": "Guide des épices et aromates",
+      "template": "article",
+      "output": "ingredients\\epices\\index.html",
+      "sha256": "a81f21d78f3aa0934322b4de778e2c5e1bb9ed41df9aa1d83096caebfc92a209"
+    },
+    {
+      "slug": "/ingredients/huiles",
+      "title": "Comment choisir ses huiles",
+      "template": "article",
+      "output": "ingredients\\huiles\\index.html",
+      "sha256": "730a5531d2a188bb52d91af719281e942410b417f44b73cea8e032e2954692dd"
+    },
+    {
+      "slug": "/ingredients/herbes",
+      "title": "Herbes fraîches : utilisation et conservation",
+      "template": "article",
+      "output": "ingredients\\herbes\\index.html",
+      "sha256": "7f71e3296e90b339e559ad8c93636550eda330b95008c1c3e0581bd0ce511e2d"
+    },
+    {
+      "slug": "/ingredients/saison",
+      "title": "Cuisiner avec des produits de saison",
+      "template": "article",
+      "output": "ingredients\\saison\\index.html",
+      "sha256": "2206fda79120d899efa0d0a591c91f6b60d32c503a59ae92222e454e070d9388"
+    },
+    {
+      "slug": "/recettes/rapides",
+      "title": "Recettes rapides pour la semaine",
+      "template": "article",
+      "output": "recettes\\rapides\\index.html",
+      "sha256": "bc62698998bae34fe1ce4033250ee702a018e2340fc614344815af07cf8369e9"
+    },
+    {
+      "slug": "/recettes/famille",
+      "title": "Recettes familiales faciles",
+      "template": "article",
+      "output": "recettes\\famille\\index.html",
+      "sha256": "ee12f5e9014eb1a0f6583eafde9e75c52c80a2cf1ab1b02a4b17d2e2c6fe1e50"
+    },
+    {
+      "slug": "/recettes/saison",
+      "title": "Recettes de saison",
+      "template": "article",
+      "output": "recettes\\saison\\index.html",
+      "sha256": "8140c4005f7bf7ceacaafc7b278193f781b747944c8649810f241036db4dd4ca"
+    },
+    {
+      "slug": "/recettes/debutants",
+      "title": "Recettes faciles pour débutants",
+      "template": "article",
+      "output": "recettes\\debutants\\index.html",
+      "sha256": "25f4f23532720d6875af60b29e2a63696ddd97f6a26b9aa55e7fa073726e38f4"
+    },
+    {
+      "slug": "/styles/francaise",
+      "title": "Cuisine française : bases et spécialités",
+      "template": "article",
+      "output": "styles\\francaise\\index.html",
+      "sha256": "c5fde2d1b152a39d732fdc7723e92b1271ced43679f2b385cce186698bfee5a0"
+    },
+    {
+      "slug": "/styles/italienne",
+      "title": "Cuisine italienne : principes essentiels",
+      "template": "article",
+      "output": "styles\\italienne\\index.html",
+      "sha256": "5a55c3459890033ab0de3fc7f99a6ac31c511bcd5e6ed7df649a490306915f86"
+    },
+    {
+      "slug": "/styles/asiatique",
+      "title": "Cuisine asiatique : techniques et ingrédients",
+      "template": "article",
+      "output": "styles\\asiatique\\index.html",
+      "sha256": "9431a3a9d537cc595352a2b238c61500c1cd328675d14d3936e5a98d901c38a7"
+    },
+    {
+      "slug": "/styles/mediterraneenne",
+      "title": "Cuisine méditerranéenne : guide complet",
+      "template": "article",
+      "output": "styles\\mediterraneenne\\index.html",
+      "sha256": "63621f70ea41b2b5dad53a32ddfac6d8a65eb1f5e77391a3ec851b3c0b8c524d"
+    },
+    {
+      "slug": "/conseils/erreurs",
+      "title": "Erreurs courantes en cuisine et solutions",
+      "template": "article",
+      "output": "conseils\\erreurs\\index.html",
+      "sha256": "27ba08a763254a9ccac6d3bf78a58573b7b42f646aff6aa1b93cf64ed97385fd"
+    },
+    {
+      "slug": "/conseils/hygiene",
+      "title": "Hygiène en cuisine : bonnes pratiques",
+      "template": "article",
+      "output": "conseils\\hygiene\\index.html",
+      "sha256": "43aa72c3d040ae0c19ab462c69e6059cba979e2ea9c3db9ec3e05536b24d8090"
+    },
+    {
+      "slug": "/conseils/rangement",
+      "title": "Rangement et organisation de la cuisine",
+      "template": "article",
+      "output": "conseils\\rangement\\index.html",
+      "sha256": "3e452d2c07ecc863a5f6f7f931ae2aa293bc63b775faf2f09c16bd1e618e828f"
+    },
+    {
+      "slug": "/comparatifs/robot-vs-manuel",
+      "title": "Robot de cuisine ou préparation manuelle ?",
+      "template": "article",
+      "output": "comparatifs\\robot-vs-manuel\\index.html",
+      "sha256": "748515e5aedfc050bb93033efba8cac5b0f1ef9578a0b364d8539eec74cf58cd"
+    },
+    {
+      "slug": "/comparatifs/gaz-vs-induction",
+      "title": "Gaz ou induction : que choisir ?",
+      "template": "article",
+      "output": "comparatifs\\gaz-vs-induction\\index.html",
+      "sha256": "dc43f558f8580bdfaa43dedcb43d50dd879ca9e92042605f65e98d1394027813"
+    },
+    {
+      "slug": "/comparatifs/inox-vs-antiadhesif",
+      "title": "Inox ou antiadhésif : comparatif",
+      "template": "article",
+      "output": "comparatifs\\inox-vs-antiadhesif\\index.html",
+      "sha256": "402c86f7d09bf55bf8e833654a32b378e40c9cfab7e7f68e5e8b1bcb899653db"
+    },
+    {
+      "slug": "/cuisine-sur-mesure",
+      "title": "Cuisine sur mesure haut de gamme",
+      "template": "article",
+      "output": "cuisine-sur-mesure\\index.html",
+      "sha256": "8fc9ac5e494bc6672b8d4b9bde27c896d40fb81e0fb7ffe2299e67a7b0782fdc"
+    },
+    {
+      "slug": "/prix-cuisine-haut-de-gamme",
+      "title": "Prix d'une cuisine haut de gamme",
+      "template": "article",
+      "output": "prix-cuisine-haut-de-gamme\\index.html",
+      "sha256": "6f1dc2b465c8b635e5be125aeac45198f7d0c3549b64050f691787f2e0b68479"
+    },
+    {
+      "slug": "/budget-20000",
+      "title": "Quelle cuisine avec un budget de 20 000 € ?",
+      "template": "article",
+      "output": "budget-20000\\index.html",
+      "sha256": "05414b2aff31ad7b6e99edd968281b8c18d980b5c5940cd28f22609291ff7290"
+    },
+    {
+      "slug": "/budget-30000",
+      "title": "Quelle cuisine avec un budget de 30 000 € ?",
+      "template": "article",
+      "output": "budget-30000\\index.html",
+      "sha256": "2810e05639962d8b7b873ee49499693735790e36262c11f2437c00019270b1e4"
+    },
+    {
+      "slug": "/budget-40000",
+      "title": "Quelle cuisine avec un budget de 40 000 € et plus ?",
+      "template": "article",
+      "output": "budget-40000\\index.html",
+      "sha256": "2b2bcfbc26c1d85978bf4a7159f6cd51dc579706bc4adeea26f8920a3b6b9a6e"
+    },
+    {
+      "slug": "/materiaux-premium",
+      "title": "Matériaux premium pour une cuisine haut de gamme",
+      "template": "article",
+      "output": "materiaux-premium\\index.html",
+      "sha256": "b26d1de74a38d6ead34e35abf41a1cfbcd19844434993786b43640c04129b6f2"
+    },
+    {
+      "slug": "/plans-de-travail",
+      "title": "Plans de travail haut de gamme : matériaux et choix",
+      "template": "article",
+      "output": "plans-de-travail\\index.html",
+      "sha256": "16ef7cd1c67ca0ad8fb939f5d9c84648ce94c71bfc6ebe1819527e0c315ff1a7"
+    },
+    {
+      "slug": "/facades-finitions",
+      "title": "Façades et finitions pour cuisine premium",
+      "template": "article",
+      "output": "facades-finitions\\index.html",
+      "sha256": "0303e9f31ed4ebde0738ec1e3c221744a470416ade48afe0a934317cceafddde"
+    },
+    {
+      "slug": "/electromenager-premium",
+      "title": "Électroménager premium pour cuisine sur mesure",
+      "template": "article",
+      "output": "electromenager-premium\\index.html",
+      "sha256": "45e93edc9556c8daa85e5d0f289c13580756a0ab9a9bb704aedbdc4c3c26ab15"
+    },
+    {
+      "slug": "/ilot-central-sur-mesure",
+      "title": "Îlot central sur mesure : dimensions, usages et budget",
+      "template": "article",
+      "output": "ilot-central-sur-mesure\\index.html",
+      "sha256": "8e42b4e2e7857f59b523ea7130b3ef022ae52e34f05b75c66eedce9cc10d6e0d"
+    },
+    {
+      "slug": "/conception",
+      "title": "Conception d'une cuisine haut de gamme",
+      "template": "article",
+      "output": "conception\\index.html",
+      "sha256": "7da2df04c9bc6d609bb6e7de57c19a00525a8884295cf12ee02e660c057411fb"
+    },
+    {
+      "slug": "/installation",
+      "title": "Installation d'une cuisine sur mesure : étapes et délais",
+      "template": "article",
+      "output": "installation\\index.html",
+      "sha256": "a43fa4405beee9dd86ab92838b3818b443f3ee74905ab45e961f4cd160e23e8b"
+    },
+    {
+      "slug": "/renovation-cuisine-haut-de-gamme",
+      "title": "Rénovation de cuisine haut de gamme",
+      "template": "article",
+      "output": "renovation-cuisine-haut-de-gamme\\index.html",
+      "sha256": "0821442cc062aace85834a881faac4584dad6904ecc7aa630bf63eb3207c2a9e"
+    },
+    {
+      "slug": "/realisations",
+      "title": "Réalisations de cuisines haut de gamme",
+      "template": "article",
+      "output": "realisations\\index.html",
+      "sha256": "90528189b368f2e27e7e1481fb07e1c5603ad452850524de0466ba69cc2d8894"
+    },
+    {
+      "slug": "/showroom",
+      "title": "Visiter notre showroom cuisine",
+      "template": "article",
+      "output": "showroom\\index.html",
+      "sha256": "a12ce2600f080e49e1633872871949827439fab454d0632acfa6b596b5e87248"
+    },
+    {
+      "slug": "/devis",
+      "title": "Demander un devis pour votre cuisine sur mesure",
+      "template": "article",
+      "output": "devis\\index.html",
+      "sha256": "d3989873a4275c4de5aad939c0ca29036d8a6de0ee538a2fb345e163e834eb4e"
+    },
+    {
+      "slug": "/rendez-vous",
+      "title": "Prendre rendez-vous avec un concepteur cuisine",
+      "template": "article",
+      "output": "rendez-vous\\index.html",
+      "sha256": "a19fbeba8a0f3cadb6cac75bd56520bfe3cef17a324e1fe511d3a971eea160de"
+    },
+    {
+      "slug": "/financement",
+      "title": "Financement d'une cuisine haut de gamme",
+      "template": "article",
+      "output": "financement\\index.html",
+      "sha256": "f1769d1ff612d9017b405d6969d93d0816ed506167d1b977381fc8c2bd4ad5fa"
+    },
+    {
+      "slug": "/garanties-service-apres-vente",
+      "title": "Garanties et service après-vente d'une cuisine premium",
+      "template": "article",
+      "output": "garanties-service-apres-vente\\index.html",
+      "sha256": "8d3d7cca1a0099638f72975679bfbdcbd35626eec851b5d14c5b52953aeb2308"
+    }
+  ]
+}

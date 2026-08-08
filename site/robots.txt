@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wannacry33.github.io/maison-cuisine-seo-test/sitemap.xml

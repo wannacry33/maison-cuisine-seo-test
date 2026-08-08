@@ -1,0 +1,12 @@
+SEO-LAB V12.3 BUILD REPORT
+========================================
+Build ID       : 12405a26-7493-4e1f-82c5-08ec8a32d627
+Created        : 2026-08-08T17:16:03.710708+00:00
+Site           : Maison Cuisine
+Theme          : V12.3 Build Smoke Theme
+Pages expected : 66
+Pages built    : 66
+Coverage       : 100.0%
+Integrity      : True
+Critical       : 0
+
